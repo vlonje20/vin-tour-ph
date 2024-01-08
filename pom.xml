@@ -7,9 +7,9 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>vin-jenkins-CICD</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Maven Web Project for Java Application</description>
 
 	<organization>
 		<name>Vin Technologies</name>
@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>vin-tour</finalName>
+		<finalName>vin-tour-ph-v1.0.0</finalName>
 		
 		<plugins>
 			<plugin>

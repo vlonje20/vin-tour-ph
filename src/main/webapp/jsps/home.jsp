@@ -28,7 +28,7 @@
         <img class="w3-image" src="https://vin-project.s3.amazonaws.com/project-images/homepage.jpg" alt="Explore" width="1500" height="800">
         <div class="w3-display-middle w3-margin-top w3-center">
             <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-red w3-opacity-min"><b>VIN</b></span> <span
-                    class="w3-hide-small w3-text-light-grey"><b>|  Tours</b></span></h1>
+                    class="w3-hide-small w3-text-light-grey"><b>|  PH Tours</b></span></h1>
         </div>
     </header>
 
@@ -37,8 +37,55 @@
 
         <!-- Home Section -->
         <div class="w3-container w3-padding-32" id="Home">
-            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Home</h3>
+            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Home | Our Staff</h3>
         </div>
+
+<div class="w3-row-padding w3-bright">
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <img src="https://vin-project.s3.amazonaws.com/project-images/vin.jpeg" alt="John" style="width:100%">
+                <h3>Vin Lonje</h3>
+                <p class="w3-opacity">CEO & Founder</p>
+                <p>Meet the founder and chief executive officer of our company. An outstanding leader. The head-train 
+                </p>
+                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <img src="https://vin-project.s3.amazonaws.com/project-images/anne.jpeg" alt="Jane" style="width:100%">
+                <h3>Anne Buri</h3>
+                <p class="w3-opacity">COO & CFO</p>
+                <p>She is responsible for the day-to-day operations of the company. The backbone of the company</p>
+                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <img src="https://vin-project.s3.amazonaws.com/project-images/allen.JPEG" alt="Mike" style="width:100%">
+                <h3>Allen Nebota</h3>
+                <p class="w3-opacity">CTO & CMO</p>
+                <p>He is in charge of the company's technological development, security, innovation, and IT infrastructure.</p>
+                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <img src="https://vin-project.s3.amazonaws.com/project-images/the+staff.JPEG" alt="Dan" style="width:100%">
+                <h3>Management</h3>
+                <p class="w3-opacity">The Staff</p>
+                <p>The grease and plugs of the company. They ensure the overall smooth running of the company</p>
+                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+            </div>
+        </div>
+
+
+           <!-- Manila Section -->
+        <div class="w3-container w3-padding-32" id="Manila City">
+            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Manila City</h3>
+            <p>In modern times, the name "Manila" is commonly used to refer to the whole metropolitan area, the greater metropolitan area, 
+                and the city proper. Metro Manila, the officially defined metropolitan area, is the capital region of the Philippines, 
+                and includes the much-larger Quezon City and the Makati Central Business District. It is the most-populous region in 
+                the country, one of the most-populous urban areas in the world, and one of the wealthiest regions in Southeast Asia. 
+                The city proper was home to 1,846,513 people in 2020, and is the historic core of a built-up area that extends well beyond 
+                its administrative limits. With 71,263 inhabitants per square kilometer (184,570/sq miles), Manila is the most densely populated 
+                city proper in the world
+            </p>
+        </div>
+
 
         <div class="w3-row-padding">
             <div class="w3-col l3 m6 w3-margin-bottom">
@@ -95,52 +142,6 @@
         </div>
 
 
-           <!-- Manila Section -->
-        <div class="w3-container w3-padding-32" id="Manila City">
-            <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Manila City</h3>
-            <p>In modern times, the name "Manila" is commonly used to refer to the whole metropolitan area, the greater metropolitan area, 
-                and the city proper. Metro Manila, the officially defined metropolitan area, is the capital region of the Philippines, 
-                and includes the much-larger Quezon City and the Makati Central Business District. It is the most-populous region in 
-                the country, one of the most-populous urban areas in the world, and one of the wealthiest regions in Southeast Asia. 
-                The city proper was home to 1,846,513 people in 2020, and is the historic core of a built-up area that extends well beyond 
-                its administrative limits. With 71,263 inhabitants per square kilometer (184,570/sq mi), Manila is the most densely populated 
-                city proper in the world
-            </p>
-        </div>
-
-        <div class="w3-row-padding w3-bright">
-            <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/vin.jpeg" alt="John" style="width:100%">
-                <h3>Vin Lonje</h3>
-                <p class="w3-opacity">CEO & Founder</p>
-                <p>Meet the founder and chief executive officer of our company. He is the pillar of the company.
-                </p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-            </div>
-            <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/anne.jpeg" alt="Jane" style="width:100%">
-                <h3>Anne Buri</h3>
-                <p class="w3-opacity">COO & CFO</p>
-                <p>She is responsible for the day-to-day operations of the company. The backbone of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-            </div>
-            <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/allen.JPEG" alt="Mike" style="width:100%">
-                <h3>Allen Nebota</h3>
-                <p class="w3-opacity">CTO & CMO</p>
-                <p>He is in charge of the company's technological development, innovation, and IT infrastructure..</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-            </div>
-            <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/the+staff.JPEG" alt="Dan" style="width:100%">
-                <h3>Management</h3>
-                <p class="w3-opacity">The Staff</p>
-                <p>The grease and plugs of the company. They ensure the overall smooth running of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
-            </div>
-        </div>
-
-
         <!-- BGC Section -->
         <div class="w3-container w3-padding-32" id="about">
             <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Bonifacio Global City</h3>
@@ -151,35 +152,58 @@
             </p>
         </div>
 
-        <div class="w3-row-padding w3-bright">
+
+        <div class="w3-row-padding">
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/vin.jpeg" alt="John" style="width:100%">
-                <h3>Vin Lonje</h3>
-                <p class="w3-opacity">CEO & Founder</p>
-                <p>Meet the founder and chief executive officer of our company. He is the pillar of the company.
-                </p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">At The Ford</div>
+                    <img src="https://vin-tour-ph.s3.amazonaws.com/BGC/Ford+BGC.JPEG" alt="Cars" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/anne.jpeg" alt="Jane" style="width:100%">
-                <h3>Anne Buri</h3>
-                <p class="w3-opacity">COO & CFO</p>
-                <p>She is responsible for the day-to-day operations of the company. The backbone of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Bridge Intramuros</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/Intramuros.JPEG" alt="Bridge" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/allen.JPEG" alt="Mike" style="width:100%">
-                <h3>Allen Nebota</h3>
-                <p class="w3-opacity">CTO & CMO</p>
-                <p>He is in charge of the company's technological development, innovation, and IT infrastructure..</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Arrival Airport</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/arrival+airport.jpeg" alt="Airport" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/the+staff.JPEG" alt="Dan" style="width:100%">
-                <h3>Management</h3>
-                <p class="w3-opacity">The Staff</p>
-                <p>The grease and plugs of the company. They ensure the overall smooth running of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Cuisine Party</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/cuisine+party.jpeg" alt="Party" style="width:100%">
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-row-padding">
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Girls Nightout</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/girls+nightout.JPEG" alt="Girls" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Cute Baby Girl</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/cute+baby+girl.jpeg" alt="Cute" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Makeup Artist</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/makeup+artist.JPEG" alt="Artist" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Mr. Dramacydal</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/mr+dramacydal.jpeg" alt="Mister" style="width:99%">
+                </div>
             </div>
         </div>
 
@@ -196,37 +220,61 @@
             </p>
         </div>
 
-        <div class="w3-row-padding w3-bright">
+
+        <div class="w3-row-padding">
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/vin.jpeg" alt="John" style="width:100%">
-                <h3>Vin Lonje</h3>
-                <p class="w3-opacity">CEO & Founder</p>
-                <p>Meet the founder and chief executive officer of our company. He is the pillar of the company.
-                </p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Shopping at Festival Mall</div>
+                    <img src="https://vin-tour-ph.s3.amazonaws.com/Filinvest+City/Landmark+Festival+Mall+Filinvest.jpeg" alt="Mall" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/anne.jpeg" alt="Jane" style="width:100%">
-                <h3>Anne Buri</h3>
-                <p class="w3-opacity">COO & CFO</p>
-                <p>She is responsible for the day-to-day operations of the company. The backbone of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Bridge Intramuros</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/Intramuros.JPEG" alt="Bridge" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/allen.JPEG" alt="Mike" style="width:100%">
-                <h3>Allen Nebota</h3>
-                <p class="w3-opacity">CTO & CMO</p>
-                <p>He is in charge of the company's technological development, innovation, and IT infrastructure..</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Arrival Airport</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/arrival+airport.jpeg" alt="Airport" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/the+staff.JPEG" alt="Dan" style="width:100%">
-                <h3>Management</h3>
-                <p class="w3-opacity">The Staff</p>
-                <p>The grease and plugs of the company. They ensure the overall smooth running of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Cuisine Party</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/cuisine+party.jpeg" alt="Party" style="width:100%">
+                </div>
             </div>
         </div>
+
+        <div class="w3-row-padding">
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Girls Nightout</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/girls+nightout.JPEG" alt="Girls" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Cute Baby Girl</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/cute+baby+girl.jpeg" alt="Cute" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Makeup Artist</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/makeup+artist.JPEG" alt="Artist" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Mr. Dramacydal</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/mr+dramacydal.jpeg" alt="Mister" style="width:99%">
+                </div>
+            </div>
+        </div>
+
 
         <!-- Makati Section -->
         <div class="w3-container w3-padding-32" id="Makati City">
@@ -239,35 +287,58 @@
             </p>
         </div>
 
-        <div class="w3-row-padding w3-bright">
+    
+        <div class="w3-row-padding">
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/vin.jpeg" alt="Vin" style="width:100%">
-                <h3>Vin Lonje</h3>
-                <p class="w3-opacity">CEO & Founder</p>
-                <p>Meet the founder and chief executive officer of our company. He is the pillar of the company.
-                </p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Outdoor Sports</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/outdoor-sports.JPEG" alt="Sports" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/anne.jpeg" alt="Jane" style="width:100%">
-                <h3>Anne Buri</h3>
-                <p class="w3-opacity">COO & CFO</p>
-                <p>She is responsible for the day-to-day operations of the company. The backbone of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Bridge Intramuros</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/Intramuros.JPEG" alt="Bridge" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/allen.JPEG" alt="Mike" style="width:100%">
-                <h3>Allen Nebota</h3>
-                <p class="w3-opacity">CTO & CMO</p>
-                <p>He is in charge of the company's technological development, innovation, and IT infrastructure..</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Arrival Airport</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/arrival+airport.jpeg" alt="Airport" style="width:100%">
+                </div>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
-                <img src="https://vin-project.s3.amazonaws.com/project-images/the+staff.JPEG" alt="Dan" style="width:100%">
-                <h3>Management</h3>
-                <p class="w3-opacity">The Staff</p>
-                <p>The grease and plugs of the company. They ensure the overall smooth running of the company</p>
-                <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Cuisine Party</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/cuisine+party.jpeg" alt="Party" style="width:100%">
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-row-padding">
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Girls Nightout</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/girls+nightout.JPEG" alt="Girls" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Cute Baby Girl</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/cute+baby+girl.jpeg" alt="Cute" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Makeup Artist</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/makeup+artist.JPEG" alt="Artist" style="width:99%">
+                </div>
+            </div>
+            <div class="w3-col l3 m6 w3-margin-bottom">
+                <div class="w3-display-container">
+                    <div class="w3-display-topleft w3-black w3-padding">Mr. Dramacydal</div>
+                    <img src="https://vin-project.s3.amazonaws.com/project-images/mr+dramacydal.jpeg" alt="Mister" style="width:99%">
+                </div>
             </div>
         </div>
 
