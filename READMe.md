@@ -10,15 +10,15 @@
 
 # ABOUT THE APP:
   - The application is a 'java-based' application. 
-  - The name of the app shall be "vin-tour"
-  - The url of the app is "home.jsp" 
+  - The name of the app shall be "vin-tour-ph"
 
 # VERSIONING:
-  - We will be using the Semantic Versioning approach. 
+  - We will be using the 'Semantic Versioning' approach. 
  
 # RELEASES:
 
 
 # NOTE: 
-  - The gitHub repository name is "vin-tour.ph"
-  - Final name "pom.xml" for the app=vin-tour 
+  - The gitHub repository name is "vin-tour-ph"
+  - Final name "pom.xml" for the app=vin-tour-ph-version 
+  - Example: vin-tour-ph-v1.0.0
