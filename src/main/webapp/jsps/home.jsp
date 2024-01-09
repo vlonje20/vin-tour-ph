@@ -53,7 +53,7 @@
                 <img src="https://vin-project.s3.amazonaws.com/project-images/anne.jpeg" alt="Jane" style="width:100%">
                 <h3>Anne Buri</h3>
                 <p class="w3-opacity">COO & CFO</p>
-                <p>She is responsible for the day-to-day operations of the company. The backbone of the company</p>
+                <p>She is responsible for the day-to-day operations of the company. The pillar and backbone of the company</p>
                 <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
             </div>
             <div class="w3-col l3 m6 w3-margin-bottom">
