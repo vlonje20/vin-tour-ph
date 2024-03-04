@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>vin-jenkins-CICD</name>
+	<name>vin-app</name>
 
 	<description>Maven Web Project for Java Application</description>
 
