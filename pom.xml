@@ -9,7 +9,7 @@
 	
 	<name>vin-app</name>
 
-	<description>Maven Web Project for Java Application</description>
+	<description>Java Application Project</description>
 
 	<organization>
 		<name>Vin Technologies</name>
@@ -26,8 +26,8 @@
 		<sonar.password>drama20</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<sonar.projectKey>sqa_4151457438b5507cdf0d2f7e82312e665a811954</sonar.projectKey>
-        <sonar.projectName>vin-tour-ph-v1.0.1</sonar.projectName>
+		<sonar.projectKey>squ_76a60de06ef6a8d0ba851795b3fd0ee9733ed6ec</sonar.projectKey>
+  <sonar.projectName>vin-tour-ph</sonar.projectName>
 
 	</properties>
 
@@ -98,20 +98,20 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Vin-Tour Releases Nexus Repository</name>
-	      <url>http://172.27.192.1:8082/repository/vin-tour-release/</url>
+	      <name>vin-tour-ph-release</name>
+	      <url>http://localhost:8081/repository/vin-tour-ph-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Vin-Tour Snapshot Nexus Repository </name>
-	      <url>http://172.27.192.1:8082/repository/vin-tour-snapshot/</url>
+	      <name>vin-tour-ph-snapshot</name>
+	      <url>http://localhost:8081/repository/vin-tour-ph-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>vin-tour-ph-v1.0.0</finalName>
+		<finalName>vin-tour-ph</finalName>
 		
 		<plugins>
 			<plugin>

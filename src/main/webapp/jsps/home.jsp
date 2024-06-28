@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>W3.CSS Template</title>
+        <title>vin-tour-ph</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -370,7 +370,7 @@
     <!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. -->
     <footer class="w3-center w3-black w3-padding-16">
         <p class="w3-small">Join our amazing team and make a difference. Lets bring new innovations!</p>
-        <a class="w3-button w3-round-xxlarge w3-small w3-red w3-margin-bottom" href="https://www.w3schools.com/spaces" target="_blank">Apply Now</a>
+        <a class="w3-button w3-round-xxlarge w3-small w3-red w3-margin-bottom" href="https://www.w3schools.com/spaces" target="_blank">Thank You!!!</a>
     <!-- Footer end. -->
     </footer>
 
